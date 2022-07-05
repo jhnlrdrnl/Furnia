@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 635613793
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 33c8e3a1c2620e64e3e898fe7075c088
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 37cc23d5440c2b033f47bf4c81a4c1f1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: c670bfa55d621474ea22ff77c1820163, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3bd997ad0c1d2434f95bde472c2f2232, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6266a2729abc4d18a676c7c2bd1c0ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ddf6f41d7b58d4144a887c52ce97c699, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3551e4b4f209b254dac500a991bf29e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.ActivateEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.DeactivateEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.HoverEnterEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.HoverExitEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.InteractionLayerMask
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.SelectEnterEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.SelectExitEvent
+- AssemblyName: Unity.XR.Interaction.Toolkit
+  ClassName: UnityEngine.XR.Interaction.Toolkit.XRInteractableEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+Assets:
+- Assets/BundledAssets/furniturebundle/photobundle/Textures/Frame1_Base_Color.jpg
+- Assets/BundledAssets/furniturebundle/tablebundle/Materials/barTable_01_D.mat
+- Assets/BundledAssets/furniturebundle/sofabundle/Materials/Ambient_Occlusion_Map_from_Mesh_DefaultMat.mat
+- Assets/BundledAssets/furniturebundle/sofabundle/Ambient_Occlusion_Map_from_Mesh_DefaultMat.png
+- Assets/BundledAssets/furniturebundle/chairbundle/chair123.fbx
+- Assets/BundledAssets/furniturebundle/fanbundle/source/FanA.png
+- Assets/BundledAssets/furniturebundle/sofabundle/sofagrey_DefaultMaterial_Roughness.png
+- Assets/BundledAssets/furniturebundle/fanbundle/source/Materials/Fan.mat
+- Assets/BundledAssets/furniturebundle/chairbundle/Chair Prefab.prefab
+- Assets/BundledAssets/furniturebundle/fanbundle/source/efan.fbx
+- Assets/BundledAssets/furniturebundle/chairbundle/Textures/chair_diffuse5.jpg
+- Assets/BundledAssets/furniturebundle/tablebundle/Materials/barTable_01_N.mat
+- Assets/BundledAssets/furniturebundle/fanbundle/source/Fan.png
+- Assets/BundledAssets/furniturebundle/sofabundle/sofagrey_DefaultMaterial_Normal.png
+- Assets/BundledAssets/furniturebundle/tablebundle/barTable_01_N.tga
+- Assets/BundledAssets/furniturebundle/fanbundle/Fan Prefab.prefab
+- Assets/BundledAssets/furniturebundle/fanbundle/textures/Fan.png
+- Assets/BundledAssets/furniturebundle/tablebundle/Table Prefab.prefab
+- Assets/BundledAssets/furniturebundle/chairbundle/Textures/chair_roughnes5.jpg
+- Assets/BundledAssets/furniturebundle/sofabundle/Materials/sofagrey_DefaultMaterial_Roughness.mat
+- Assets/BundledAssets/furniturebundle/photobundle/Textures/Paper1_Base_Color.jpg
+- Assets/BundledAssets/furniturebundle/sofabundle/Materials/sofagrey_DefaultMaterial_Normal.mat
+- Assets/BundledAssets/furniturebundle/tablebundle/bar_table.FBX
+- Assets/BundledAssets/furniturebundle/fanbundle/source/Materials/FanA.mat
+- Assets/BundledAssets/furniturebundle/tablebundle/barTable_01_S.tga
+- Assets/BundledAssets/furniturebundle/tablebundle/bar_table.prefab
+- Assets/BundledAssets/furniturebundle/chairbundle/Textures/Chair_Metallic5.jpg
+- Assets/BundledAssets/furniturebundle/photobundle/Textures/Wood1_Base_Color.jpg
+- Assets/BundledAssets/furniturebundle/fanbundle/source/Material #2.mat
+- Assets/BundledAssets/furniturebundle/fanbundle/textures/FanA.png
+- Assets/BundledAssets/furniturebundle/photobundle/PosterFrame.fbx
+- Assets/BundledAssets/furniturebundle/sofabundle/sofagrey.fbx
+- Assets/BundledAssets/furniturebundle/fanbundle/textures/internal_ground_ao_texture.jpeg
+- Assets/BundledAssets/furniturebundle/sofabundle/Sofa Prefab.prefab
+- Assets/BundledAssets/furniturebundle/photobundle/Frame Prefab.prefab
+- Assets/BundledAssets/furniturebundle/chairbundle/Textures/chair_normal_5.jpg
+- Assets/BundledAssets/furniturebundle/sofabundle/sofagrey_DefaultMaterial_BaseColor.png
+- Assets/BundledAssets/furniturebundle/sofabundle/Materials/sofagrey_DefaultMaterial_BaseColor.mat
+- Assets/BundledAssets/furniturebundle/tablebundle/barTable_01_D.tga
+Dependencies: []

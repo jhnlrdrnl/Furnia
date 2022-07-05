@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3733778527
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: furnitures
+      Dependencies: {}
