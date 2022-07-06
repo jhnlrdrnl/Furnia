@@ -1,7 +1,7 @@
 # Furnia
 ## An Android Application Utilizing Augmented Reality to spawn Furnitures (Similar to IKEA Place Application)
 
-Click this [link](https://youtu.be/_E6CvkbClsY) to wastch a short demo on YouTube (Device: Realme 5).
+Click this [link](https://youtu.be/_E6CvkbClsY) to watch a short demo on YouTube (Device: Realme 5).
 
 ## Main Features
 1. Spawn furnitures and interact with it (Move, Scale, & Rotate). 
