@@ -23,4 +23,4 @@ Click this [link](https://youtu.be/_E6CvkbClsY) to watch a short demo on YouTube
 ## Learning  References
 1. [Joystick Lab](https://www.youtube.com/c/JoystickLab)
 
-> Check out (IKEA Place Application)[https://apps.apple.com/us/app/ikea-place/id1279244498]
+> Check out IKEA Place App https://apps.apple.com/us/app/ikea-place/id1279244498
